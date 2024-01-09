@@ -1,0 +1,1 @@
+I used jupyter notebook to run my project and python as my main language. The imdb Movie Reviews dataset can be downloaded from kaggle through this link https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews
